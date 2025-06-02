@@ -2,9 +2,9 @@
 #### Student
 I'm currently studying at American International University, Bangladesh.
 
-Skills: C++/Java
+Skills: C++/Java/Python
 
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently learning ML 
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: tutulm.11nzs@proton.me 
 
